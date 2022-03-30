@@ -1,2 +1,1 @@
-# alx-system_engineering-devops
-week two; day three
+This is just an assignment
